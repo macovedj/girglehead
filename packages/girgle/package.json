@@ -1,6 +1,6 @@
 {
   "name": "girgle",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "For help learning lerna",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "NPM Daniel Macovei <djmacovei@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "girgle_colors": "^1.0.1"
+    "girgle_colors": "^1.0.0"
   }
 }
