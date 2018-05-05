@@ -1,0 +1,14 @@
+{
+  "name": "girgle",
+  "version": "1.0.5",
+  "description": "For help learning lerna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NPM Daniel Macovei <djmacovei@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "girgle_colors": "^1.0.1"
+  }
+}
